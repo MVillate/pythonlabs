@@ -37,6 +37,7 @@ class Employee:
 # <__main__.Employee instance at 0x10a2a8e18>
 emp_1 = Employee("Manu", "Villate", 100000)
 emp_2 = Employee("Fran", "Villate", 120000)
+emp_3 = Employee("Jose", "Villate", 140000)
 
 print(emp_1)
 print(emp_2)
